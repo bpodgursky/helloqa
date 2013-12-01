@@ -6,3 +6,7 @@
 *.ear
 /target
 /data
+
+# IDE configuration #
+.idea
+*.iml
